@@ -56,7 +56,7 @@
 				<TextBlock Grid.Row="4">5. Ефанова Анна Павловна 🧁</TextBlock>
 				<TextBlock Grid.Row="5">6. Закиров Алмаз Айратович</TextBlock>
 				<TextBlock Grid.Row="6">7. Климовская Анастасия Андреевна</TextBlock>
-				<TextBlock Grid.Row="7">8. Криушин Михаил Алексеевич</TextBlock>
+				<Button Click="Kriushin_Click" Grid.Row="7">8. Криушин Михаил Алексеевич</Button>
 				<TextBlock Grid.Row="8">9. Масленников Алексей Сергеевич</TextBlock>
 				<TextBlock Grid.Row="9">10. Мухамадиева Ралина Раилевна</TextBlock>
 				<TextBlock Grid.Row="10">11. Нигаматзянова Камиля Завдатовна</TextBlock>

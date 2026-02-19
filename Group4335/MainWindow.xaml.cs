@@ -12,5 +12,9 @@ namespace Group4335
             Info infow = new Info();
             infow.Show();
         }
+        private void Kriushin_Click (object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Автор: Криушин М.А.", "4335 Криушин М.А.");
+        }
     }
 }
